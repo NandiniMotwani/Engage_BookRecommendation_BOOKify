@@ -1,2 +1,2 @@
-# bookRecommendatin
-app for recommending book
+# ner
+Named Entity Recognition
