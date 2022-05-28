@@ -25,7 +25,7 @@
 * Clone the project
 
   ```
-  git clone https://github.com/NandiniMotwani/bookRecommendatin
+  git clone https://github.com/NandiniMotwani/Engage_BookRecommendation_BOOKify
   ```
 
 * Unzip the dataset.zip file  
@@ -33,7 +33,7 @@
 * Go into the project directory
   
   ```
-  cd bookRecommendation
+  cd Engage_BookRecommendation_BOOKify
   ```
 
 * Run this command
